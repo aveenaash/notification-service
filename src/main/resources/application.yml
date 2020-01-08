@@ -1,0 +1,8 @@
+sqs:
+  queue:
+    endpoint: https://sqs.us-east-1.amazonaws.com/054603371339/customer_service_dev
+    name: customer_service_dev
+    
+aws:
+  accesskey: AKIAIMHYFCEXGPHJK5PQ
+  secretkey: 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
